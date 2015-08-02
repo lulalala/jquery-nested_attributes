@@ -1,0 +1,32 @@
+{
+  "name": "jquery-nested_attributes",
+  "version": "0.0.0",
+  "homepage": "https://github.com/patbenatar/jquery-nested_attributes",
+  "description": "jQuery plugin that makes it easy to dynamically add and remove records when using ActiveRecord's nested attributes.",
+  "main": "jquery.nested_attributes.coffee",
+  "dependencies": {
+    "jquery": ">= 1.8"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Rails",
+    "nested form",
+    "jQuery"
+  ],
+  "authors": [
+    "Brendan Loudermilk <bloudermilk@gmail.com>",
+    "Nick Giancola <nick@gophilosophie.com>",
+    "Alec Winograd",
+    "lulalala <mark@goodlife.tw"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
